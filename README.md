@@ -28,4 +28,4 @@ The objective of this project is to develop a model that can accurately predict 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/number-drawing-prediction.git
+   git clone https://github.com/elyes2dev/Number_Drowing_Prediction_ML

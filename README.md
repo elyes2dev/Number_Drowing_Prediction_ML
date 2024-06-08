@@ -2,7 +2,7 @@
 
 This repository contains a project focused on predicting drawn numbers using the KNeighborsClassifier. The project involves using machine learning techniques to recognize and predict numbers drawn by users.
 
-![Number Prediction](https://cdn.dribbble.com/users/1129235/screenshots/17325464/media/7def5cb53575f718e069edbb97d54994.gif)
+![Number Prediction](https://raoumer.github.io/images/mlr.gif)
 
 ## Overview
 
